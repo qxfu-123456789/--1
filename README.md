@@ -4,7 +4,7 @@
 
 ## 进入游戏
 
-GitHub Pages 发布：**https://OWNER.github.io/REPO/**
+GitHub Pages 发布：**https://qxfu-123456789.github.io/--1/**
 
 无需登录，进度保存在当前浏览器（localStorage）。
 
